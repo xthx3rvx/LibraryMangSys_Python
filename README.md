@@ -1,5 +1,4 @@
 # LibraryMangSys_Python
-
 📚 Library Management System (OOP-Based in Python)
 This project is a simple Library Management System built using Object-Oriented Programming (OOP) principles in Python. It models a real-world library system with features like managing books, members (students and faculty), transactions, and different library departments.
 
